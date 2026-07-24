@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuvraj-044/DSA/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/yuvraj-044/DSA/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yuvraj-044/DSA/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yuvraj-044/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
