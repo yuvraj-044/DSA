@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yuvraj-044/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yuvraj-044/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yuvraj-044/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yuvraj-044/DSA/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
