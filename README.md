@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/yuvraj-044/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/yuvraj-044/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yuvraj-044/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvraj-044/DSA/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yuvraj-044/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yuvraj-044/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuvraj-044/DSA/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/yuvraj-044/DSA/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
