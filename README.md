@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yuvraj-044/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvraj-044/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/yuvraj-044/DSA/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/yuvraj-044/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/yuvraj-044/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yuvraj-044/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yuvraj-044/DSA/tree/master/0283-move-zeroes) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/yuvraj-044/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/yuvraj-044/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
