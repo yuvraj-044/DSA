@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/yuvraj-044/DSA/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/yuvraj-044/DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/yuvraj-044/DSA/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/yuvraj-044/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/yuvraj-044/DSA/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
