@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/yuvraj-044/DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/yuvraj-044/DSA/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/yuvraj-044/DSA/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/yuvraj-044/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/yuvraj-044/DSA/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yuvraj-044/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvraj-044/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/yuvraj-044/DSA/tree/master/0881-boats-to-save-people) |
+| [2396-strictly-palindromic-number](https://github.com/yuvraj-044/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/yuvraj-044/DSA/tree/master/2413-smallest-even-multiple) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/yuvraj-044/DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
