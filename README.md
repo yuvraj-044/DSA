@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yuvraj-044/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/yuvraj-044/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yuvraj-044/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/yuvraj-044/DSA/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/yuvraj-044/DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/yuvraj-044/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/yuvraj-044/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yuvraj-044/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/yuvraj-044/DSA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/yuvraj-044/DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
