@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuvraj-044/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yuvraj-044/DSA/tree/master/0125-valid-palindrome) |
+| [3110-score-of-a-string](https://github.com/yuvraj-044/DSA/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
