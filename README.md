@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yuvraj-044/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/yuvraj-044/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/yuvraj-044/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yuvraj-044/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yuvraj-044/DSA/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/yuvraj-044/DSA/tree/master/0492-construct-the-rectangle) |
@@ -124,9 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yuvraj-044/DSA/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/yuvraj-044/DSA/tree/master/2413-smallest-even-multiple) |
 ## Brainteaser
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/yuvraj-044/DSA/tree/master/2396-strictly-palindromic-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yuvraj-044/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
