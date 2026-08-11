@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yuvraj-044/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/yuvraj-044/DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/yuvraj-044/DSA/tree/master/0881-boats-to-save-people) |
+| [3925-concatenate-array-with-reverse](https://github.com/yuvraj-044/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yuvraj-044/DSA/tree/master/0258-add-digits) |
+| [3925-concatenate-array-with-reverse](https://github.com/yuvraj-044/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Minimax
 |  |
 | ------- |
