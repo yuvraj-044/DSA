@@ -13,33 +13,23 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
 
-        if(head == NULL || head->next == NULL)
-            return true;
-        ListNode* slow = head;
-        ListNode* fast = head;
+        vector<int> v;
 
-        while(fast->next != NULL && fast->next->next != NULL) {
-            slow = slow->next;
-            fast = fast->next->next;
+        while(head != NULL) {
+            v.push_back(head->val);
+            head = head->next;
         }
-        ListNode* prev = NULL;
-        ListNode* curr = slow->next;
 
-        while(curr != NULL) {
-            ListNode* next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
-        ListNode* first = head;
-        ListNode* second = prev;
+        int left = 0;
+        int right = v.size() - 1;
 
-        while(second != NULL) {
-            if(first->val != second->val)
+        while(left < right) {
+
+            if(v[left] != v[right])
                 return false;
 
-            first = first->next;
-            second = second->next;
+            left++;
+            right--;
         }
 
         return true;
