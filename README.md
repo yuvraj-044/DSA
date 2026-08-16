@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/yuvraj-044/DSA/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/yuvraj-044/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/yuvraj-044/DSA/tree/master/2413-smallest-even-multiple) |
+| [2769-find-the-maximum-achievable-number](https://github.com/yuvraj-044/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3945-digit-frequency-score](https://github.com/yuvraj-044/DSA/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
