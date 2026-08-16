@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/yuvraj-044/DSA/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/yuvraj-044/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/yuvraj-044/DSA/tree/master/2413-smallest-even-multiple) |
+| [2578-split-with-minimum-sum](https://github.com/yuvraj-044/DSA/tree/master/2578-split-with-minimum-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/yuvraj-044/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3945-digit-frequency-score](https://github.com/yuvraj-044/DSA/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yuvraj-044/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yuvraj-044/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/yuvraj-044/DSA/tree/master/0881-boats-to-save-people) |
+| [2578-split-with-minimum-sum](https://github.com/yuvraj-044/DSA/tree/master/2578-split-with-minimum-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuvraj-044/DSA/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/yuvraj-044/DSA/tree/master/0881-boats-to-save-people) |
+| [2578-split-with-minimum-sum](https://github.com/yuvraj-044/DSA/tree/master/2578-split-with-minimum-sum) |
 ## String
 |  |
 | ------- |
