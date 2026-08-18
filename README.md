@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuvraj-044/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/yuvraj-044/DSA/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/yuvraj-044/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvraj-044/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yuvraj-044/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yuvraj-044/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/yuvraj-044/DSA/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/yuvraj-044/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/yuvraj-044/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yuvraj-044/DSA/tree/master/0268-missing-number) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yuvraj-044/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/yuvraj-044/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yuvraj-044/DSA/tree/master/0125-valid-palindrome) |
 | [3110-score-of-a-string](https://github.com/yuvraj-044/DSA/tree/master/3110-score-of-a-string) |
