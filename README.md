@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/yuvraj-044/DSA/tree/master/2413-smallest-even-multiple) |
 | [2578-split-with-minimum-sum](https://github.com/yuvraj-044/DSA/tree/master/2578-split-with-minimum-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/yuvraj-044/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/yuvraj-044/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/yuvraj-044/DSA/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
